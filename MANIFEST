@@ -1,0 +1,14 @@
+t
+t/00-use.t
+MANIFEST
+Makefile.PL
+Makefile
+lib
+lib/Util
+lib/Util/Task.pm
+lib/Util/Task
+lib/Util/Task/Sequence.pm
+lib/Util/Task/Multi.pm
+lib/Util/Task/Simple.pm
+
+META.yml                                 Module meta-data (added by MakeMaker)
